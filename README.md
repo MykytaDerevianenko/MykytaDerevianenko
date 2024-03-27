@@ -1,6 +1,8 @@
-<a href="https://github.com/MykytaDerevianenko/MykytaDerevianenko">
-	<img scr="https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png' alt="header" />
-</a>
+<div>
+	<a href="https://github.com/MykytaDerevianenko/MykytaDerevianenko">
+		<img scr="https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png' alt="header" />
+	</a>
+</div>
 
 # Hi, my name is Mykyta!
 
@@ -11,11 +13,11 @@ I am a beginner QA engineer.
 ---
 
 ### My CV
-
+<div>
 	<a href="https://drive.google.com/drive/folders/1ZSVHX8VrpqBgLc-aJ93GV8od2xeFobAJ?usp=sharing" >
 		Link to my CV
 	</a>
-
+</div>
 ---
 
 
