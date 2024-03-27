@@ -10,9 +10,8 @@
 ---
 
 <div>
-	<h3>My CV</h3>
 	<a href="https://drive.google.com/drive/folders/1ZSVHX8VrpqBgLc-aJ93GV8od2xeFobAJ?usp=sharing">
-		Link to my CV
+		My CV
 	</a>
 </div>
 
@@ -22,7 +21,7 @@
 
 <div>
     <a href="https://www.linkedin.com/in/derevianenko/">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" title="Linked In" alt="linkedin" width="40" height="40" />
+      <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" title="Linked In" alt="linkedin" width="40" height="40" />
     </a>
 	<a href="https://t.me/MykytaDerevianenko/">
       <img src="https://logospng.org/download/telegram/logo-telegram-512.png" title="Telegram" alt="telegram" width="40" height="40" />
