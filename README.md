@@ -33,10 +33,10 @@
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40" />&nbsp
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3521296-2944715.png?f=webp" width="40" height="40" />&nbsp
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40" />&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="fiddler" width="40" height="40" />
-  <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40" />&nbsp
-  <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="fiddler" width="40" height="40" />
+  <img src="https://pbs.twimg.com/profile_images/1639395011866361857/Cd6Ji_08_400x400.jpg" title="TestRail" alt="testrail" width="40" height="40" />&nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/YouTrack_Icon.svg/1024px-YouTrack_Icon.svg.png?20200803082248" title="YouTrack" alt="youtrack" width="40" height="40"/>&nbsp
+  <img src="https://docs.testit.software/images/testit_logo_icon_blue.png" title="Test IT" alt="testit" width="40" height="40"/>&nbsp
+  <img src="https://luna1.co/eb0187.png" title="Qase" alt="qase" width="40" height="40"/>
 </div>
 
 ---
