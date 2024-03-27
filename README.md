@@ -63,8 +63,8 @@
 ### Technologies
 
 <div>
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-html-5-1-1175208.png" title="HTML" alt="html" width="40" height="40" />&nbsp
-  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" title="CSS" alt="css" width="40" height="40" />&nbsp
+  <img src="https://logospng.org/download/html-5/logo-html-5-1536.png" alt="html" width="40" height="40" />&nbsp
+  <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" title="CSS" alt="css" width="40" height="40" />&nbsp
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="git" width="40" height="40" />&nbsp
   <img src="https://iili.io/Huty37V.png" title="Bash" alt="bash" width="40" height="40" />
 </div>
