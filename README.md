@@ -63,7 +63,7 @@
 ### Technologies
 
 <div>
-  <img src="https://logospng.org/download/html-5/logo-html-5-1536.png" alt="html" width="40" height="40" />&nbsp
+  <img src="https://logospng.org/download/html-5/logo-html-5-1536.png" title="HTML" alt="html" width="40" height="40" />&nbsp
   <img src="https://logospng.org/download/css-3/logo-css-3-1536.png" title="CSS" alt="css" width="40" height="40" />&nbsp
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="Git" alt="git" width="40" height="40" />&nbsp
   <img src="https://iili.io/Huty37V.png" title="Bash" alt="bash" width="40" height="40" />
