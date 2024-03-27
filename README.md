@@ -1,8 +1,4 @@
-<div>
-	<a href="https://github.com/MykytaDerevianenko/MykytaDerevianenko"
-		<img scr="https://raw.githubusercontent.com/MykytaDerevianenko/MykytaDerevianenko/main/assets/Name.png" alt="header" />
-	</a>
-</div>
+[![Header](https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png)](https://github.com/MykytaDerevianenko/MykytaDerevianenko)
 
 # Hi, my name is Mykyta!
 
