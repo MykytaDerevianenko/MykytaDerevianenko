@@ -1,6 +1,6 @@
 <img src="Name.png" alt="Mykyta Derevianenko" />
 
-<p1>Hi, name is Nikita!</p1>
+<h1>Hi, name is Nikita!</h1>
 
 ---
 
