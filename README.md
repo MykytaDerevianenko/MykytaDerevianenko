@@ -1,6 +1,6 @@
 <div>
 	<a href="https://github.com/MykytaDerevianenko/MykytaDerevianenko"
-		<img scr="https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png" alt="header" />
+		<img scr="https://raw.githubusercontent.com/MykytaDerevianenko/MykytaDerevianenko/main/assets/Name.png" alt="header" />
 	</a>
 </div>
 
