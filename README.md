@@ -1,6 +1,6 @@
 <div>
-	<a href="https://github.com/MykytaDerevianenko/MykytaDerevianenko">
-		<img scr="https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png' alt="header" />
+	<a href="https://github.com/MykytaDerevianenko/MykytaDerevianenko"
+		<img scr="https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png" alt="header" />
 	</a>
 </div>
 
@@ -14,7 +14,7 @@ I am a beginner QA engineer.
 <div>
 	<h3>
 		My CV
-	</h3></br></br>
+	</h3>
 	
 	<a href="https://drive.google.com/drive/folders/1ZSVHX8VrpqBgLc-aJ93GV8od2xeFobAJ?usp=sharing" >
 		Link to my CV
