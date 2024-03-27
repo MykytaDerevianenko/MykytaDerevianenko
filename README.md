@@ -32,7 +32,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40" />&nbsp
-  <img src="https://149765861.v2.pressablecdn.com/wp-content/uploads/2020/01/devops.png" title="Azure DevOps" alt="azuredevops" width="40" height="40" />&nbsp
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3521296-2944715.png?f=webp" width="40" height="40" />&nbsp
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40" />&nbsp
   <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="Fiddler" alt="fiddler" width="40" height="40" />
   <img src="https://static0.smartbear.co/smartbearbrand/media/images/home/soapui-icon.svg" title="SoapUI" alt="soapui" width="40" height="40" />&nbsp
