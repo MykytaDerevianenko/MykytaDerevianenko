@@ -1,4 +1,4 @@
-[![Header](https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png)]
+![Header](https://github.com/MykytaDerevianenko/MykytaDerevianenko/blob/main/assets/Name.png)
 (https://github.com/MykytaDerevianenko/MykytaDerevianenko)
 
 <h1>Hi, name is Nikita!</h1>
