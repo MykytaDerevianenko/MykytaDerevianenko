@@ -1,3 +1,5 @@
+<img src="Name.png" alt="Mykyta Derevianenko" />
+
 # Hi, name is Nikita!
 
 ---
