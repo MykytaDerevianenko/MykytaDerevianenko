@@ -22,7 +22,7 @@
 
 <div>
     <a href="https://www.linkedin.com/in/derevianenko/">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" title="linkedin" alt="linkedin" width="40" height="40" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" title="Linked In" alt="linkedin" width="40" height="40" />
     </a>
 </div>
 
