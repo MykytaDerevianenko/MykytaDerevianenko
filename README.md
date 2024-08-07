@@ -20,12 +20,12 @@
 ### Social media:
 
 <div>
-    <a href="https://www.linkedin.com/in/derevianenko/">
-      <img src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" title="Linked In" alt="linkedin" width="40" height="40" />
-    </a>
+	<a href="https://www.linkedin.com/in/derevianenko/">
+		<img src="https://logospng.org/download/linkedin/logo-linkedin-icon-512.png" title="Linked In" alt="linkedin" width="40" height="40" />
+	</a>
 	<a href="https://t.me/MykytaDerevianenko/">
-      <img src="https://logospng.org/download/telegram/logo-telegram-512.png" title="Telegram" alt="telegram" width="40" height="40" />
-    </a>
+		<img src="https://logospng.org/download/telegram/logo-telegram-512.png" title="Telegram" alt="telegram" width="40" height="40" />
+	</a>
 </div>
 
 ---
